@@ -1,0 +1,86 @@
+C:\Users\Student\source\repos\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Student\source\repos\TicTacToe\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Student\source\repos\TicTacToe\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\Student\source\repos\TicTacToe\Debug\TicTacToe.vcxproj.CopyComplete
+C:\Users\Student\source\repos\TicTacToe\Debug\MySql.Data.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\Google.Protobuf.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\Zstandard.Net.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\System.Memory.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\System.Buffers.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\source\repos\TicTacToe\Debug\MySql.Data.xml
+C:\Users\Student\source\repos\TicTacToe\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.vcxproj.CopyComplete
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\Google.Protobuf.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\Zstandard.Net.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\System.Memory.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\System.Buffers.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Saved Games\source\repos\TicTacToe\TicTacToe\Debug\MySql.Data.xml
+C:\Users\Student\Desktop\TicTacToeMu\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\Student\Desktop\TicTacToeMu\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Student\Desktop\TicTacToeMu\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\Student\Desktop\TicTacToeMu\Debug\TicTacToe.vcxproj.CopyComplete
+C:\Users\Student\Desktop\TicTacToeMu\Debug\TicTacToe.exe
+C:\Users\Student\Desktop\TicTacToeMu\Debug\Google.Protobuf.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\Zstandard.Net.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\System.Memory.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\TicTacToeMu\Debug\MySql.Data.xml
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\TicTacToe.vcxproj.CopyComplete
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\TicTacToe.exe
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\Google.Protobuf.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\Zstandard.Net.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\System.Memory.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\System.Buffers.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToeMu\Debug\MySql.Data.xml
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\TicTacToe.vcxproj.CopyComplete
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\Google.Protobuf.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\Zstandard.Net.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\BouncyCastle.Crypto.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\Ubiety.Dns.Core.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\System.Memory.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\System.Buffers.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\K4os.Compression.LZ4.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\K4os.Hash.xxHash.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Downloads\TicTacToe(1)\TicTacToe\Debug\MySql.Data.xml
